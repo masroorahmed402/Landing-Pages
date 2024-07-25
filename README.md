@@ -6,11 +6,7 @@ This repository is a collection of landing pages created for practicing HTML, CS
 
 This repository contains various landing pages designed and developed as part of my practice in HTML, CSS, and JavaScript. Each landing page is stored in its own folder and showcases different design and functionality aspects.
 
-**Landing Pages:**
-
-**Landing Page 1**
-
-Description: A brief description of what this landing page demonstrates. More landing pages will be added as I continue practicing.
+More landing pages will be added as I continue practicing.
 
 **Usage**
 
@@ -20,7 +16,7 @@ git clone https://github.com/masroorahmed402/landing-pages.git
 
 2. Navigate to the desired landing page folder:
 
-cd landing-pages/landingpage1
+cd landing-pages/landingpage1 or cd landing-pages/landingpage2
 
 3. Open the index.html file in your browser to view the landing page.
 
